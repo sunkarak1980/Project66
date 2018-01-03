@@ -3,8 +3,8 @@ Violet
 Indigo
 Blue
 Green
-Yelloq
+Yellow
 Orange
 Red
 
-These are colors of rainbow
+These are seven colors of rainbow
