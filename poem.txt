@@ -1,6 +1,6 @@
 Author: Kishore
-Updated in branch DEV1
-The Rainbow and the Unicorn
+Updated in branch DEV1 in ponies branch
+The Rainbow and the Unicorn and ponies
 Violet
 Indigo
 Blue
